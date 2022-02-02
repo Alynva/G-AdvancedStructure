@@ -1,0 +1,20 @@
+{
+  "name": "G-AdvancedStructure",
+  "version": "1.0.0",
+  "description": "Utility function to allow read more complex packet in one go",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "cd test && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alynva/G-AdvancedStructure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alynva/G-AdvancedStructure/issues"
+  },
+  "homepage": "https://github.com/Alynva/G-AdvancedStructure#readme"
+}
