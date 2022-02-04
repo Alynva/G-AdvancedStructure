@@ -1,5 +1,5 @@
 {
-  "name": "G-AdvancedStructure",
+  "name": "G-ComplexStructure",
   "version": "1.0.0",
   "description": "Utility function to allow read more complex packet in one go",
   "main": "src/index.js",
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alynva/G-AdvancedStructure.git"
+    "url": "git+https://github.com/Alynva/G-ComplexStructure.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Alynva/G-AdvancedStructure/issues"
+    "url": "https://github.com/Alynva/G-ComplexStructure/issues"
   },
-  "homepage": "https://github.com/Alynva/G-AdvancedStructure#readme"
+  "homepage": "https://github.com/Alynva/G-ComplexStructure#readme",
+  "peerDependencies": {
+    "gnode-api": "^0.1.1"
+  }
 }
